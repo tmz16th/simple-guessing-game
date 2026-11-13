@@ -1,0 +1,5 @@
+# Rust build output (any folder's target/ directory)
+target/
+
+# Standalone binary produced by `rustc main.rs` in hello_world
+/hello_world/main
